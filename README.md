@@ -1,4 +1,7 @@
-# test coverage for  [cassowary (v0.0.2)](https://github.com/slightlyoff/cassowary-js-refactor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cassowary.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cassowary) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cassowary.svg)](https://travis-ci.org/npmtest/node-npmtest-cassowary)
+# npmtest-cassowary
+
+#### basic test coverage for  [cassowary (v0.0.2)](https://github.com/slightlyoff/cassowary-js-refactor#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cassowary.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cassowary) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cassowary.svg)](https://travis-ci.org/npmtest/node-npmtest-cassowary)
+
 #### A fast, modern JavaScript version of the Cassowary hierarchial linear constraint solver
 
 [![NPM](https://nodei.co/npm/cassowary.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cassowary)
@@ -85,7 +88,8 @@
         "test": "cd tests; mocha *-test.js"
     },
     "url": "https://github.com/slightlyoff/cassowary-js-refactor",
-    "version": "0.0.2"
+    "version": "0.0.2",
+    "bin": {}
 }
 ```
 
